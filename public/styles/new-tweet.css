@@ -47,4 +47,9 @@ textarea {
   width: 100%;
 }
 
+/* red font when words count exceeds 140 char */
+.negative-count {
+  color: red;
+}
+
 
