@@ -1,6 +1,6 @@
 article:hover {
   box-shadow: 5px 10px;
-  color: #6C8C8C
+  color: #f04e0e
 }
 
 .tweet-head {
@@ -23,7 +23,7 @@ article .tweet-head div:nth-child(2) {
 article:hover .tweet-head div:nth-child(2) {
   display: contents;
   font-size: 17px;
-  color: #b8b894;
+  color: #0a7afa;
   font-weight: 600;
 }
 
