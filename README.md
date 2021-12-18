@@ -27,13 +27,15 @@ This repository is the starter code for the project: Students will fork and clon
 
 Home page view with both toggle buttons shown and tweet-box hidden
 
-![Home page](/images/tweet-box.png)
+![Home page](public/images/tweet-box.png)
 
 Error message when tweet length exceeded
-![Error Message](/images/tweet-error.png)
+
+![Error Message](public/images/tweet-error.png)
 
 Responsive design
-![Responsive design](/images/tweet-responsive.png)
+
+![Responsive design](public/images/tweet-responsive.png)
 
 
 ## Dependencies
